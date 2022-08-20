@@ -220,6 +220,7 @@ class ArtistForm(Form):
             ('Reggae', 'Reggae'),
             ('Rock n Roll', 'Rock n Roll'),
             ('Soul', 'Soul'),
+            ('Gospel', 'Gospel'),
             ('Other', 'Other'),
         ]
      )
